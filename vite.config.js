@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: "/Parking-Lot-Finder/",
+  base: "/Parking-Lot-Finder/"
 })
