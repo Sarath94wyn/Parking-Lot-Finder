@@ -19,6 +19,7 @@ const parkingLots = [
     price: 20,
     amenities: ["Security"]
   }
+  
 ];
 
 export default parkingLots;
